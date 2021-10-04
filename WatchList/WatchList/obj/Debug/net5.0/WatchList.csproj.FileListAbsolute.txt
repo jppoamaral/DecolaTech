@@ -1,0 +1,12 @@
+C:\workspace\Decola Tech\WatchList\WatchList\bin\Debug\net5.0\WatchList.deps.json
+C:\workspace\Decola Tech\WatchList\WatchList\bin\Debug\net5.0\WatchList.dll
+C:\workspace\Decola Tech\WatchList\WatchList\bin\Debug\net5.0\ref\WatchList.dll
+C:\workspace\Decola Tech\WatchList\WatchList\bin\Debug\net5.0\WatchList.pdb
+C:\workspace\Decola Tech\WatchList\WatchList\obj\Debug\net5.0\WatchList.csproj.AssemblyReference.cache
+C:\workspace\Decola Tech\WatchList\WatchList\obj\Debug\net5.0\WatchList.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Decola Tech\WatchList\WatchList\obj\Debug\net5.0\WatchList.AssemblyInfoInputs.cache
+C:\workspace\Decola Tech\WatchList\WatchList\obj\Debug\net5.0\WatchList.AssemblyInfo.cs
+C:\workspace\Decola Tech\WatchList\WatchList\obj\Debug\net5.0\WatchList.csproj.CoreCompileInputs.cache
+C:\workspace\Decola Tech\WatchList\WatchList\obj\Debug\net5.0\WatchList.dll
+C:\workspace\Decola Tech\WatchList\WatchList\obj\Debug\net5.0\ref\WatchList.dll
+C:\workspace\Decola Tech\WatchList\WatchList\obj\Debug\net5.0\WatchList.pdb
